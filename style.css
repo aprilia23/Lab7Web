@@ -1,0 +1,63 @@
+body {
+    font-family: Georgia, serif;
+    background: #F5F5DC;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  padding: 10px;
+}
+
+.login {
+    padding: 1em;
+    margin: auto;
+    width: 25em;
+    background: #5F9EA0;
+    border-radius: 3px;
+}
+   
+label {
+    font-size: 10pt;
+    color: #555;
+}
+   
+input[type="text"],
+input[type="date"] {
+    padding: 15px;
+    width: 93%;
+    background: #efefef;
+    border: 0;
+    font-size: 1em;
+    font-family: 'Georgia';
+    margin: 6px 0px;
+    border-radius: 5px;
+}
+   
+input[type="submit"] {
+    background: #264653;
+    color: #fff;
+    border: 0;
+    margin: 5px 0px;
+    padding: 15px;
+    border-radius: 5px;
+    width: 100%;
+    font-family: 'Georgia';
+}
+
+input[type="submit"]:hover {
+    background: #042631;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    margin: 5px;
+    align-items: center;
+    cursor: pointer;
+}
+
+p {
+  margin: 5px;
+}
