@@ -28,3 +28,38 @@ Pratikum<p>
 
 ![image](https://user-images.githubusercontent.com/54062259/117575506-fa8c1700-b096-11eb-8682-322ac54dada5.png)
 
+<p>Operator<p>
+
+![image](https://user-images.githubusercontent.com/54062259/117575640-8aca5c00-b097-11eb-80df-f451a558dbc8.png)
+
+![image](https://user-images.githubusercontent.com/54062259/117575649-9453c400-b097-11eb-9f7c-a54a142b890e.png)
+
+<p>Kondisi IF<p>
+ 
+![image](https://user-images.githubusercontent.com/54062259/117575760-18a64700-b098-11eb-9e50-cb1f748b9f36.png)
+
+![image](https://user-images.githubusercontent.com/54062259/117575767-1cd26480-b098-11eb-9ded-e2e4b12eab3d.png)
+
+<p>Kondisi Switch<p>
+
+![image](https://user-images.githubusercontent.com/54062259/117575829-560ad480-b098-11eb-9612-2c3c2ab4b35c.png)
+
+<p>Perulangan for<p>
+
+![image](https://user-images.githubusercontent.com/54062259/117575904-91a59e80-b098-11eb-96e8-5582f11ce4c3.png)
+
+![image](https://user-images.githubusercontent.com/54062259/117575908-98341600-b098-11eb-917e-b120afede1e2.png)
+
+<p>Perulangan while<p>
+
+![image](https://user-images.githubusercontent.com/54062259/117575929-b8fc6b80-b098-11eb-8b56-eb1df6712f8b.png)
+
+![image](https://user-images.githubusercontent.com/54062259/117575943-c0237980-b098-11eb-9b20-bf192739b3ab.png)
+
+<p>Perulangan dowhile<p>
+
+![image](https://user-images.githubusercontent.com/54062259/117575977-dd584800-b098-11eb-8e14-035b22b7592a.png)
+
+![image](https://user-images.githubusercontent.com/54062259/117575979-e0ebcf00-b098-11eb-83f6-83ce8a221034.png)
+
+
