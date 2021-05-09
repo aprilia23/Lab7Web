@@ -63,3 +63,19 @@ Pratikum<p>
 ![image](https://user-images.githubusercontent.com/54062259/117575979-e0ebcf00-b098-11eb-83f6-83ce8a221034.png)
 
 
+<p>Tugas<p>
+1. Source Code pada HTML<p>
+
+![image](https://user-images.githubusercontent.com/54062259/117586750-f7148200-b0ce-11eb-8673-780216278a02.png)
+
+2. Source Code pada PHP
+
+![image](https://user-images.githubusercontent.com/54062259/117586771-0dbad900-b0cf-11eb-8fcc-66fa2783406f.png)
+
+3. Hasil Progranm Sederhana
+
+![image](https://user-images.githubusercontent.com/54062259/117586787-2a571100-b0cf-11eb-8884-b32a96789679.png)
+
+4. Hasil setelah nama , tanggal lahir dan pekerjaan di input 
+
+![image](https://user-images.githubusercontent.com/54062259/117586800-51adde00-b0cf-11eb-86d5-6cf4024c24ee.png)
